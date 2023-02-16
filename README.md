@@ -1,5 +1,9 @@
 It's a simple weight tracking app where you can track everyday's weight.
+
+
 The data is being stored in firestore database through anonymous SignIn
+
+
 I have removed google services.json fire. Add your own to use firestore services
 
 
