@@ -14,7 +14,7 @@ The data is being stored in firestore database through anonymous SignIn
 List of entries is being updated in realtime when data changes on firestore
 
 
-I have removed google services.json fire. Add your own to use firestore services
+I have removed google services.json file. Add your own to use firestore services
 
 
 ![Screenshot (148)](https://user-images.githubusercontent.com/72517135/219284087-df2302c3-d0de-4cb8-b013-a62322e93287.png)
