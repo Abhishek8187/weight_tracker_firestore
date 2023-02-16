@@ -1,4 +1,7 @@
-It's a simple weight tracking app where you can track everyday's weight.
+It's a simple weight tracking app where you can track everyday's weight. 
+
+
+You can also edit or delete the firestore data directly from app UI
 
 
 The data is being stored in firestore database through anonymous SignIn
@@ -18,3 +21,14 @@ I have removed google services.json fire. Add your own to use firestore services
 
 
 ![Screenshot (150)](https://user-images.githubusercontent.com/72517135/219284131-70ba0c8c-38f1-43b9-940c-6ad65236270c.png)
+
+
+
+
+![Screenshot (151)](https://user-images.githubusercontent.com/72517135/219284678-15525e77-88ea-49d1-b248-eb1f8a994a52.png)
+
+
+
+
+
+![Screenshot (152)](https://user-images.githubusercontent.com/72517135/219284692-2959b630-dac5-4e11-abd4-8bd9e444a6da.png)
