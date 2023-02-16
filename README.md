@@ -1,10 +1,17 @@
 It's a simple weight tracking app where you can track everyday's weight. 
 
 
+Contains anonymous SignIn through firebase authentication
+
+
 You can also edit or delete the firestore data directly from app UI
 
 
 The data is being stored in firestore database through anonymous SignIn
+
+
+
+List of entries is being updated in realtime when data changes on firestore
 
 
 I have removed google services.json fire. Add your own to use firestore services
